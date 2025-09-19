@@ -4,6 +4,12 @@ body {
   text-align: center;
 }
 
+ol, ul {
+  list-style-position: inside; /* moves numbers inside the <li> box */
+  padding-left: 0; /* optional, remove default indentation */
+  text-align: center; /* now both numbers and text are centered */
+}
+
 p {
   font-size: medium;
 }
