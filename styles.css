@@ -2,6 +2,7 @@
   font-family: myFirstFont;
   src: url(Outfit-VariableFont_wght.ttf);
 }
+
 h1 {
-    font-family: myFirstFont;
+    font-size: xx-small;
 }
