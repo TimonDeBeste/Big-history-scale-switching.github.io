@@ -57,19 +57,8 @@ nav {
     border-radius: 5px;
 }
 
-.menu:active {
+.menu :active {
   background-color:purple;
-}
-
-.menu:active a:link {
-  color: lightblue;
-}
-
-.menu:active a:visited{
-  color:lightpink;
-}
-.menu:active a:visited{
-  color:white;
 }
 
 a:link {
