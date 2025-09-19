@@ -17,6 +17,8 @@ p {
 
 .content {
   width: 80%;
+  background-color: black;
+  opacity: 80%;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
