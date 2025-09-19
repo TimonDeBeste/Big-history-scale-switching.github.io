@@ -2,3 +2,6 @@
   font-family: myFirstFont;
   src: url(OFL.txt);
 }
+h1 {
+    font-family: myFirstFont;
+}
