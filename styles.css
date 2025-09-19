@@ -1,6 +1,6 @@
 body {
   background-color: white;
 }
-h1, h2, h3,#base p, ul, ol {
+#base h1, #base h2, h3,#base p, #base ul, #base ol {
   font-family: Arial, Helvetica, sans-serif;
 }
