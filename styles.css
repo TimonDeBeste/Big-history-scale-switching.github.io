@@ -1,3 +1,6 @@
 body {
-  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-color: white;
+}
+h1, h2 {
+  font-family: Impact, serif;
 }
