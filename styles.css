@@ -3,6 +3,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+p {
+  font-size: medium;
+}
+
 .content {
   width: 80%;
   background-color: white;
