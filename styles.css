@@ -27,6 +27,7 @@ p {
   margin-right: auto;
   margin-bottom: 0px;
   padding: 20px;
+  backdrop-filter: blur(10px) brightness 0.8;
 }
 
 a:link {
