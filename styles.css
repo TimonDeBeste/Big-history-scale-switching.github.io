@@ -35,15 +35,15 @@ a:link {
   color:lightblue;
 }
 a:visited {
-  color: #ffaaff;
+  color: lightblue;
 }
 
 a:active {
   color:white;
-
 }
 
 nav {
+  background-attachment: fixed;
     background-color: #333;
     padding: 10px 0;
 }
